@@ -1,16 +1,6 @@
 # flutter_hydrated_bloc_app
 
-A new Flutter project.
+A basic Flutter app that persists a counter and theme state.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1672118313](https://user-images.githubusercontent.com/76113072/209615114-aaf09f35-42bd-4d82-9124-663a4b690548.png)
+![Screenshot_1672118316](https://user-images.githubusercontent.com/76113072/209615118-fd8effa8-67f1-4dc9-8922-b567c7c86c7f.png)
